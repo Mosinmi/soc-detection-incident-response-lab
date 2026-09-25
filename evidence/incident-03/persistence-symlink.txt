@@ -1,0 +1,2 @@
+===== PERSISTENCE SYMLINK =====
+ls: cannot access '/etc/systemd/system/multi-user.target.wants/soc-lab-test.service': No such file or directory

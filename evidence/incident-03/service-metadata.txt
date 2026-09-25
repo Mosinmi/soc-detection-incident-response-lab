@@ -1,0 +1,2 @@
+===== SERVICE METADATA =====
+stat: cannot statx '/etc/systemd/system/soc-lab-test.service': No such file or directory

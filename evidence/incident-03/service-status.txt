@@ -1,0 +1,2 @@
+===== SERVICE STATUS =====
+Unit soc-lab-test.service could not be found.

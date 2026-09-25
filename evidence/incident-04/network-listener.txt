@@ -1,0 +1,2 @@
+===== NETWORK LISTENER =====
+LISTEN 0      5          127.0.0.1:8080      0.0.0.0:*    users:(("python3",pid=5481,fd=3))        

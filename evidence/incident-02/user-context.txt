@@ -1,0 +1,10 @@
+===== CURRENT USER =====
+mosinmi
+===== USER IDENTITY =====
+uid=1000(mosinmi) gid=1000(mosinmi) groups=1000(mosinmi),27(sudo),999(vboxsf)
+===== SUDO PRIVILEGES =====
+Matching Defaults entries for mosinmi on Ubuntu:
+    env_reset, mail_badpass, secure_path=/usr/local/sbin\:/usr/local/bin\:/usr/sbin\:/usr/bin\:/sbin\:/bin\:/snap/bin, use_pty
+
+User mosinmi may run the following commands on Ubuntu:
+    (ALL : ALL) ALL

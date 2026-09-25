@@ -1,0 +1,7 @@
+Sep 25 11:48:35 Ubuntu sshd[3563]: Invalid user wronguser from 192.168.0.136 port 49304
+Sep 25 11:48:44 Ubuntu sshd[3565]: Invalid user wronguser from 192.168.0.136 port 49308
+Sep 25 11:48:47 Ubuntu sshd[3567]: Invalid user wronguser from 192.168.0.136 port 49309
+Sep 25 11:48:50 Ubuntu sshd[3569]: Invalid user wronguser from 192.168.0.136 port 49310
+Sep 25 11:48:52 Ubuntu sshd[3571]: Invalid user wronguser from 192.168.0.136 port 49311
+Sep 25 12:06:22 Ubuntu sudo:  mosinmi : TTY=pts/0 ; PWD=/home/mosinmi ; USER=root ; COMMAND=/usr/bin/grep -E 'Invalid user wronguser|Failed password' /var/log/auth.log
+Sep 25 12:19:15 Ubuntu sudo:  mosinmi : TTY=pts/0 ; PWD=/home/mosinmi ; USER=root ; COMMAND=/usr/bin/grep -E 'Invalid user wronguser|Failed password' /var/log/auth.log

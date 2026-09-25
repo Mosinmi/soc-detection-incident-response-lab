@@ -1,0 +1,31 @@
+===== SUDO ACTIVITY =====
+Sep 25 12:09:35 Ubuntu sudo: pam_unix(sudo:session): session closed for user root
+Sep 25 12:12:49 Ubuntu sudo:  mosinmi : TTY=pts/0 ; PWD=/home/mosinmi ; USER=root ; COMMAND=/usr/bin/fail2ban-client status sshd
+Sep 25 12:12:49 Ubuntu sudo: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1000)
+Sep 25 12:12:49 Ubuntu sudo: pam_unix(sudo:session): session closed for user root
+Sep 25 12:19:15 Ubuntu sudo:  mosinmi : TTY=pts/0 ; PWD=/home/mosinmi ; USER=root ; COMMAND=/usr/bin/tee /home/mosinmi/soc-evidence/incident-01/ssh-authentication-events.txt
+Sep 25 12:19:15 Ubuntu sudo:  mosinmi : TTY=pts/0 ; PWD=/home/mosinmi ; USER=root ; COMMAND=/usr/bin/grep -E 'Invalid user wronguser|Failed password' /var/log/auth.log
+Sep 25 12:19:15 Ubuntu sudo: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1000)
+Sep 25 12:19:15 Ubuntu sudo: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1000)
+Sep 25 12:19:15 Ubuntu sudo: pam_unix(sudo:session): session closed for user root
+Sep 25 12:19:15 Ubuntu sudo: pam_unix(sudo:session): session closed for user root
+Sep 25 12:19:16 Ubuntu sudo:  mosinmi : TTY=pts/0 ; PWD=/home/mosinmi ; USER=root ; COMMAND=/usr/bin/fail2ban-client status sshd
+Sep 25 12:19:16 Ubuntu sudo: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1000)
+Sep 25 12:19:16 Ubuntu sudo: pam_unix(sudo:session): session closed for user root
+Sep 25 12:19:16 Ubuntu sudo:  mosinmi : TTY=pts/0 ; PWD=/home/mosinmi ; USER=root ; COMMAND=/usr/sbin/sshd -T
+Sep 25 12:19:16 Ubuntu sudo: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1000)
+Sep 25 12:19:16 Ubuntu sudo: pam_unix(sudo:session): session closed for user root
+Sep 25 12:28:18 Ubuntu sudo:  mosinmi : TTY=pts/0 ; PWD=/home/mosinmi ; USER=root ; COMMAND=/usr/bin/id
+Sep 25 12:28:18 Ubuntu sudo: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1000)
+Sep 25 12:28:18 Ubuntu sudo: pam_unix(sudo:session): session closed for user root
+Sep 25 12:28:27 Ubuntu sudo:  mosinmi : TTY=pts/0 ; PWD=/home/mosinmi ; USER=root ; COMMAND=/usr/bin/whoami
+Sep 25 12:28:27 Ubuntu sudo: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1000)
+Sep 25 12:28:27 Ubuntu sudo: pam_unix(sudo:session): session closed for user root
+Sep 25 12:28:43 Ubuntu sudo:  mosinmi : TTY=pts/0 ; PWD=/home/mosinmi ; USER=root ; COMMAND=/usr/bin/grep sudo: /var/log/auth.log
+Sep 25 12:28:43 Ubuntu sudo: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1000)
+Sep 25 12:28:44 Ubuntu sudo: pam_unix(sudo:session): session closed for user root
+Sep 25 12:29:29 Ubuntu sudo:  mosinmi : TTY=pts/0 ; PWD=/home/mosinmi ; USER=root ; COMMAND=/usr/bin/grep sudo: /var/log/auth.log
+Sep 25 12:29:29 Ubuntu sudo: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1000)
+Sep 25 12:29:29 Ubuntu sudo: pam_unix(sudo:session): session closed for user root
+Sep 25 12:31:53 Ubuntu sudo:  mosinmi : TTY=pts/0 ; PWD=/home/mosinmi ; USER=root ; COMMAND=/usr/bin/grep sudo: /var/log/auth.log
+Sep 25 12:31:53 Ubuntu sudo: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1000)

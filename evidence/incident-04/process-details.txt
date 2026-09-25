@@ -1,0 +1,3 @@
+===== PROCESS DETAILS =====
+UID          PID    PPID  C STIME TTY          TIME CMD
+mosinmi     5481    3318  0 13:17 pts/0    00:00:00 python3 -m http.server 8080 --bind 127.0.0.1

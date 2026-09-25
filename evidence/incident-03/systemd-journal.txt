@@ -1,0 +1,5 @@
+===== SYSTEMD JOURNAL =====
+Sep 25 12:40:32 Ubuntu systemd[1]: Starting SOC Lab Controlled Test Service...
+Sep 25 12:40:32 Ubuntu systemd[1]: Finished SOC Lab Controlled Test Service.
+Sep 25 12:45:25 Ubuntu systemd[1]: soc-lab-test.service: Deactivated successfully.
+Sep 25 12:45:25 Ubuntu systemd[1]: Stopped SOC Lab Controlled Test Service.
